@@ -2,7 +2,7 @@
 layout: post
 title: 'Java抽象类和接口的区别'
 categories: Java
-date: 2020-05-06 23:40:24
+date: 2019-12-28 00:00:01
 tags:
     - Java
     - 抽象类
