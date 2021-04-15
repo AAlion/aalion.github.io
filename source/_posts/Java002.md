@@ -1,4 +1,4 @@
-3---
+---
 layout: post
 title: 'AQS'
 categories: Java
@@ -7,6 +7,7 @@ tags:
     - Java
     - 源码
 ---
+
 
 @[TOC](目录)
 
