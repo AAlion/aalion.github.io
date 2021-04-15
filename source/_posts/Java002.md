@@ -1,6 +1,6 @@
 3---
 layout: post
-title: 'Kafka初识'
+title: 'AQS'
 categories: Java
 date: 2021-01-01 00:00:03
 tags:
